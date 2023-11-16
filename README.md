@@ -9,7 +9,7 @@ Welcome to the ExploreGitHub Profile Web Finder! This JavaScript-based web appli
 - **User-friendly Interface:** Simple and intuitive design for a seamless experience.
 
 ## Getting Started
-1. Clone the repository: `git clone [https://github.com/Mandip47/Github-Profile-Finder]`
+1. Clone the repository: `git clone https://github.com/Mandip47/Github-Profile-Finder`
 2. Open `index.html` in your preferred web browser.
 
 ## Usage
